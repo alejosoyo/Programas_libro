@@ -1,0 +1,4 @@
+Conceptos:
+JVM (Java Virtual Machine)
+JRE (Java Runtime Enviroment)
+JDK (Compilador)
